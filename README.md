@@ -1,5 +1,5 @@
 Título: Simulação de Ataque de Brute Force com Medusa (Kali Linux) em Metasploitable
-Autor: Seu Nome
+Autor: Fabio Ferreira Reis
 Data: 2025-10-28
 
 Escopo
